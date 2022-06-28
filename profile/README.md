@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="../profile/banner.png">
+  <a href="https://github.com/OctopusMC/octopus">
     <img src="https://raw.githubusercontent.com/OctopusMC/.github/main/profile/banner.png" alt="Logo" width="512">
   </a>
 
