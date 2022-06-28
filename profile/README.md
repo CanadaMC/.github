@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="../profile/banner.png">
-    <img src="../profile/banner.png" alt="Logo" width="512">
+    <img src="https://raw.githubusercontent.com/OctopusMC/.github/main/profile/banner.png" alt="Logo" width="512">
   </a>
 
 <h3 align="center">Octopus [Velocity Fork]</h3>
