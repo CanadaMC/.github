@@ -8,7 +8,7 @@
 <h3 align="center">canadamc [Paper Fork]</h3>
 
   <p align="center">
-    The feature rich and secure proxy.
+    A preformance improved paper fork.
     <br />
   </p>
 </div>
