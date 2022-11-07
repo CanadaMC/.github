@@ -8,7 +8,7 @@
 <h3 align="center">canadamc [Paper Fork]</h3>
 
   <p align="center">
-    A preformance improved paper fork!
+    A preformance improved paper fork.
     <br />
   </p>
 </div>
