@@ -5,10 +5,10 @@
     <img src="https://raw.githubusercontent.com/canadamc/.github/main/profile/banner.png" alt="Logo" width="512">
   </a>
 
-<h3 align="center">canadamc [Paper Fork]</h3>
+<h3 align="center">canadamc [development team]</h3>
 
   <p align="center">
-    A preformance improved paper fork.
+    We produce working digital products.
     <br />
   </p>
 </div>
